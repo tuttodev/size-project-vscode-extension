@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <!-- VSCode window background -->
+  <rect x="0" y="0" width="800" height="200" fill="#1e1e1e" />
+  
+  <!-- Status bar -->
+  <rect x="0" y="170" width="800" height="30" fill="#007acc" />
+  
+  <!-- Status bar items -->
+  <text x="10" y="190" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">master*</text>
+  <text x="80" y="190" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">UTF-8</text>
+  <text x="150" y="190" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">LF</text>
+  <text x="200" y="190" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">JavaScript</text>
+  
+  <!-- Size Project extension status bar item -->
+  <rect x="650" y="170" width="140" height="30" fill="#0063a5" />
+  <text x="670" y="190" font-family="Arial, sans-serif" font-size="12" fill="#ffffff">📄 1,234 lines</text>
+  
+  <!-- Editor content (simplified) -->
+  <rect x="10" y="10" width="780" height="150" fill="#252526" />
+  
+  <!-- Code lines -->
+  <text x="40" y="30" font-family="Consolas, monospace" font-size="12" fill="#d4d4d4">// The module 'vscode' contains the VS Code extensibility API</text>
+  <text x="40" y="50" font-family="Consolas, monospace" font-size="12" fill="#d4d4d4">const vscode = require('vscode');</text>
+  <text x="40" y="70" font-family="Consolas, monospace" font-size="12" fill="#d4d4d4">const fs = require('fs');</text>
+  <text x="40" y="90" font-family="Consolas, monospace" font-size="12" fill="#d4d4d4">const path = require('path');</text>
+  <text x="40" y="110" font-family="Consolas, monospace" font-size="12" fill="#d4d4d4"></text>
+  <text x="40" y="130" font-family="Consolas, monospace" font-size="12" fill="#d4d4d4">// Status bar item to display the line count</text>
+  <text x="40" y="150" font-family="Consolas, monospace" font-size="12" fill="#d4d4d4">let statusBarItem;</text>
+  
+  <!-- Line numbers -->
+  <rect x="10" y="10" width="25" height="150" fill="#333333" />
+  <text x="20" y="30" font-family="Consolas, monospace" font-size="12" fill="#858585">1</text>
+  <text x="20" y="50" font-family="Consolas, monospace" font-size="12" fill="#858585">2</text>
+  <text x="20" y="70" font-family="Consolas, monospace" font-size="12" fill="#858585">3</text>
+  <text x="20" y="90" font-family="Consolas, monospace" font-size="12" fill="#858585">4</text>
+  <text x="20" y="110" font-family="Consolas, monospace" font-size="12" fill="#858585">5</text>
+  <text x="20" y="130" font-family="Consolas, monospace" font-size="12" fill="#858585">6</text>
+  <text x="20" y="150" font-family="Consolas, monospace" font-size="12" fill="#858585">7</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Background -->
+  <rect x="4" y="4" width="120" height="120" rx="16" ry="16" fill="#2c2c2c" />
+  
+  <!-- Document outline -->
+  <rect x="24" y="16" width="80" height="96" rx="4" ry="4" fill="#ffffff" />
+  
+  <!-- Text lines -->
+  <rect x="32" y="32" width="64" height="4" rx="2" ry="2" fill="#007acc" />
+  <rect x="32" y="44" width="48" height="4" rx="2" ry="2" fill="#007acc" />
+  <rect x="32" y="56" width="56" height="4" rx="2" ry="2" fill="#007acc" />
+  <rect x="32" y="68" width="40" height="4" rx="2" ry="2" fill="#007acc" />
+  <rect x="32" y="80" width="60" height="4" rx="2" ry="2" fill="#007acc" />
+  
+  <!-- Counter circle -->
+  <circle cx="96" cy="96" r="24" fill="#007acc" />
+  
+  <!-- Counter text -->
+  <text x="96" y="102" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#ffffff">123</text>
+</svg>
