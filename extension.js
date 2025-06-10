@@ -1,7 +1,6 @@
 // The module 'vscode' contains the VS Code extensibility API
 const vscode = require('vscode');
 const fs = require('fs');
-const path = require('path');
 
 // Status bar item to display the line count
 let statusBarItem;

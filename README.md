@@ -2,7 +2,7 @@
 
 A Visual Studio Code extension that shows the total number of non-empty lines of code in your project.
 
-![Size Project Extension](images/screenshot.png)
+![Size Project Extension](images/screenshot.svg)
 
 ## Features
 
@@ -20,7 +20,7 @@ You can install this extension directly from the Visual Studio Code Marketplace:
 3. Search for "Size Project"
 4. Click Install
 
-Alternatively, you can download the VSIX file from the [releases page](https://github.com/yourusername/size-project/releases) and install it manually:
+Alternatively, you can download the VSIX file from the [releases page](https://github.com/tuttodev/size-project-vscode-extension) and install it manually:
 
 ```bash
 code --install-extension size-project-1.0.0.vsix
